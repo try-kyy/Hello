@@ -8,4 +8,8 @@
     <string name="_0">0</string>
     <string name="teama">TeamA</string>
     <string name="teamb">TeamB</string>
+    <string name="btn_dollar_label">Dollar</string>
+    <string name="rmb_hint">Input RMB</string>
+    <string name="btn_euro_label">Euro</string>
+    <string name="btn_won_label">Won</string>
 </resources>
